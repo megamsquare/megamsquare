@@ -4,7 +4,7 @@
 
 I am a fullstack developer that wants to improve small business development process, make open source more accessible.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: PHP (Laravel / Codeigniter) / PYTHON (Flask) / SQL (MSSQL / MySQL / Postgres) / VUE JS / ANGULAR / JS / HTML / CSS
 
 - 🔭 I’m currently working on Education System and Business Automation System 
 - 🌱 I’m currently learning Neural Network 
@@ -16,7 +16,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=megamsquare&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=megamsquare&show_icons=true&count_private=true&theme=radical)  
 
 ![Profile views](https://gpvc.arturio.dev/megamsquare)  
 
