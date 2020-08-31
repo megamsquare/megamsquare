@@ -11,7 +11,7 @@ Skills: PHP (Laravel / Codeigniter) / PYTHON (Flask) / SQL (MSSQL / MySQL / Post
 - 👯 I’m looking to collaborate on PHP, ANGULAR & FLASK OPEN SOURCE  
 - 📫 How to reach me: +2347038089237 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=megamsquare&show_icons=true&count_private=true&theme=radical&hide=stars,commits,prs,issues)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=megamsquare&show_icons=true&count_private=true&theme=radical&hide=stars,prs,issues,contribs)  
 
 ![Profile views](https://gpvc.arturio.dev/megamsquare)  
 
