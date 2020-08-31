@@ -4,7 +4,7 @@
 
 I am a fullstack developer that wants to improve small business development process, make open source more accessible.
 
-Skills: PHP (Laravel / Codeigniter) / PYTHON (Flask) / SQL (MSSQL / MySQL / Postgres) / VUE JS / ANGULAR / JS / HTML / CSS
+Skills: PHP (Laravel / Codeigniter) / PYTHON (Flask) / SQL (MSSQL / MySQL / PostgreSQL) / VUE JS / ANGULAR / JS / HTML / CSS
 
 - 🔭 I’m currently working on Education System and Business Automation System 
 - 🌱 I’m currently learning Neural Network 
