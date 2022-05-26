@@ -8,7 +8,7 @@ Skills: GoLamg / PHP (Laravel / Codeigniter) / PYTHON (Flask) / SQL (MSSQL / MyS
 
 - 🔭 I’m currently working on Education System and Business Automation System 
 - 🌱 I’m currently learning Neural Network 
-- 👯 I’m looking to collaborate on PHP, ANGULAR & FLASK OPEN SOURCE  
+- 👯 I’m looking to collaborate on GoLang, PHP, ANGULAR & Python OPEN SOURCE  
 - 📫 How to reach me: +2347038089237 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=megamsquare&show_icons=true&count_private=true&theme=radical&hide=stars,prs,issues,contribs)  
