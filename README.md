@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Michael
-#### I am a FullStack Developer
+#### Welcom to my Hub
 ![Welcom to my Hub](https://megamsquare.github.io/jsonfiles/images/profile.png)
 
 As a backend-heavy fullstack developer, my goal is to enhance small business development processes, tackle complex challenges faced by big businesses, and make open source more accessible. With expertise in programming languages like Golang and JavaScript/Typescript, as well as a deep understanding of modern frontend and backend technologies, including microservices architecture and cloud computing, I am well-prepared to drive these improvements and provide innovative solutions to address critical business problems.
