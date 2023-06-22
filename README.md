@@ -4,11 +4,11 @@
 
 I am a fullstack developer that wants to improve small business development process, make open source more accessible.
 
-Skills: GoLamg / PHP (Laravel / Codeigniter) / PYTHON (Flask) / SQL (MSSQL / MySQL / PostgreSQL) / VUE JS / ANGULAR / JS / HTML / CSS
+Skills: GoLang / Node.js / JavaScript / TypeScript / Redis / RabbitMQ / MySQL / PostgreSQL / MSSQL / MongoDB / AWS SQS / AWS SNS / AWS S3 / AWS EC2 / AWS ElastiCache / Docker / Kubernetes / Angular / Vue.js / React.js / Flutter / 
 
 - 🔭 I’m currently working on Education System and Business Automation System 
 - 🌱 I’m currently learning Neural Network 
-- 👯 I’m looking to collaborate on GoLang, PHP, ANGULAR & Python OPEN SOURCE  
+- 👯 I’m looking to collaborate on GoLang, Node.js, ANGULAR  
 - 📫 How to reach me: +2347038089237 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=megamsquare&show_icons=true&count_private=true&theme=radical&hide=stars,prs,issues,contribs)  
