@@ -4,7 +4,7 @@
 
 As a backend-heavy fullstack developer, my goal is to enhance small business development processes, tackle complex challenges faced by big businesses, and make open source more accessible. With expertise in programming languages like Golang and JavaScript/Typescript, as well as a deep understanding of modern frontend and backend technologies, including microservices architecture and cloud computing, I am well-prepared to drive these improvements and provide innovative solutions to address critical business problems.
 
-Skills: GoLang / Node.js / JavaScript / TypeScript / Redis / RabbitMQ / MySQL / PostgreSQL / MSSQL / MongoDB / AWS SQS / AWS SNS / AWS S3 / AWS EC2 / AWS ElastiCache / Docker / Kubernetes / Angular / Vue.js / React.js / Flutter / Github / Azure / Bitbucket / Gitlab
+Skills: Node.js / JavaScript / TypeScript / GoLang / Redis / RabbitMQ / MySQL / PostgreSQL / MSSQL / MongoDB / AWS SQS / AWS SNS / AWS S3 / AWS EC2 / AWS ElastiCache / Docker / Kubernetes / Angular / Vue.js / React.js / Flutter / Github / Azure / Bitbucket / Gitlab
 
 - 👯 I’m looking to collaborate on GoLang, Node.js, Angular  
 - 📫 How to reach me: +2347038089237 
