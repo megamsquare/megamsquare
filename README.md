@@ -24,13 +24,12 @@ Skills: Node.js / JavaScript / TypeScript / GoLang / Redis / RabbitMQ / MySQL / 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p> -->
-
-- 👯 I’m looking to collaborate on GoLang, Node.js, Angular  
+ 
 - 📫 How to reach me: +2347038089237 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=megamsquare&show_icons=true&count_private=true&theme=radical&hide=stars,prs,issues,contribs)  
 
-![Profile views](https://gpvc.arturio.dev/megamsquare)  
+<!-- ![Profile views](https://gpvc.arturio.dev/megamsquare)   -->
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/megamsquare)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/megamsquare)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/megamsquare/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/megamsquare/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/megamsquare)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/megamsquare)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/6760233/m-michael)  
