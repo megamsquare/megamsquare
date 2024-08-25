@@ -31,6 +31,9 @@ Skills: Node.js / JavaScript / TypeScript / Golang / Redis / RabbitMQ / MySQL / 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=megamsquare&theme=radical)](https://github.com/megamsquare)
 
+[![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=megamsquare&show_icons=true&theme=merko)](https://github.com/megamsquare)
+
+
  
 
 <!-- ![Profile views](https://gpvc.arturio.dev/megamsquare)   -->
