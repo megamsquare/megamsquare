@@ -34,13 +34,13 @@ Skills: Node.js / JavaScript / TypeScript / Golang / Redis / RabbitMQ / MySQL / 
 <!-- [![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=megamsquare&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=megamsquare&count_private=true&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats) -->
-[![info](https://github-readme-stats-gray-alpha-29.vercel.app/api?username=megamsquare&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![info](https://github-readme-stats-gray-alpha-29.vercel.app/api?username=megamsquare&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJZH001)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![Profile views](https://gpvc.arturio.dev/megamsquare)   -->
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/megamsquare)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/megamsquare)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/megamsquare/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/megamsquare/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/megamsquare)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/megamsquare)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/6760233/m-michael)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/megamsquare)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/megamsquare)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/megamsquare/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/megamsquare/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/megamsquare) 
 
 <!--
 **megamsquare/megamsquare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
