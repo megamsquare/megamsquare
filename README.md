@@ -27,7 +27,8 @@ Skills: Node.js / JavaScript / TypeScript / GoLang / Redis / RabbitMQ / MySQL / 
  
 - 📫 How to reach me: +2347038089237 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=megamsquare&show_icons=true&count_private=true&theme=radical&hide=stars,prs,issues,contribs)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=megamsquare&show_icons=true&count_private=true&theme=radical&hide=stars,prs,issues,contribs)
+ 
 
 <!-- ![Profile views](https://gpvc.arturio.dev/megamsquare)   -->
 
