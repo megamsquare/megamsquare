@@ -36,7 +36,6 @@ Skills: Node.js / JavaScript / TypeScript / Golang / Redis / RabbitMQ / MySQL / 
 <!-- [![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=megamsquare&count_private=true&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![info](https://github-readme-stats-gray-alpha-29.vercel.app/api?username=megamsquare&count_private=true&show_icons=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJZH001)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=megamsquare)](https://github.com/megamsquare)
 
 <!-- ![Profile views](https://gpvc.arturio.dev/megamsquare)   -->
 
